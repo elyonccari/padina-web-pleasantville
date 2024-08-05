@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function () {
     const searchInputs = document.querySelectorAll('input[name="search"]');
     
@@ -15,3 +14,4 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 });
+
